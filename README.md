@@ -45,7 +45,7 @@ Branches allow you to separate your work from the `main` branch. In other words,
 
    ![code-tab](/images/code-tab.png)
 
-3. Click on the **main** branch drop-down.
+3. Click on the **Main** branch drop-down.
 
    ![main-branch-dropdown](/images/main-branch-dropdown.png)
 
